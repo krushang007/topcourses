@@ -1,3 +1,6 @@
+# Direct Access link 
+https://top-courses-krv007.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
