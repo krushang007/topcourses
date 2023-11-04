@@ -20,7 +20,7 @@ function Card({course}) {
       else{
         setLikeCourse((prev)=>[...prev,course.id]);
       }
-      toast.success("Liked added");
+      toast.success("Like added");
       }
   }
   return (
